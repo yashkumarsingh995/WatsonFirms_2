@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "www.demo321.com",
+            "request": "launch",
+            "url": "www.demo321.com"
+        }
+    ]
+}
